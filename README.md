@@ -1,6 +1,6 @@
 # IMDB_Dataset_Sentiment_Analysis
 
-The aim in this project is to conduct a sentiment analysis of imdb-movie-review dataset by two deep learning approaches: CNN and LSTM.
+The aim in this project is to conduct a sentiment analysis of imdb-movie-review dataset by two deep learning methods: CNN and LSTM.
 Sentiment analysis is a kind of text classification. 
 
 There are two jupyter notebooks, to be run on the kaggle platform, as the dataset is already available there. 
