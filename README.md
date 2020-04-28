@@ -5,7 +5,7 @@ Sentiment analysis is a kind of text classification.
 
 There are two jupyter notebooks, to be run on the kaggle platform, as the dataset is already available there. 
 
-If a notebook is run on kaggle, the dataset must be added to the path, which can easily be done on kaggle platform. If it is meant to be run on a local machine, the dataset could be downloaded from the following link: 
+If a notebook is run on kaggle, the dataset must be added to the path, which can easily be done on the kaggle platform. If it is meant to be run on a local machine, the dataset could be downloaded from the following link: 
 
 https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
